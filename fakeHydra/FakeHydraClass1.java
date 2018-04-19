@@ -1,4 +1,4 @@
-package edu.fake.ssec.fakeHydra;
+package edu.fake.ssec.FakeHydraGitSubModule.fakeHydra;
 
 public class FakeHydraClass1 {
 
